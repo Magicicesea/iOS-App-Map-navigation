@@ -1,5 +1,5 @@
 # iOS-App-Map-navigation
-===============
+---------------
 ## Introduction
 ---------------
 This App is designed for navigation of Map which is developed with Swift, Google Map RESTful API and Apple Map.
