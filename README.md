@@ -1,4 +1,4 @@
-# iOS-App-Map-navigation
+# iOS App Map navigation
 ---------------
 ## Introduction
 ---------------
